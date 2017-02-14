@@ -9,6 +9,8 @@ int main()
 
 	int a, b;
 	int c;
+	a = 40;
+	b = 20;
     return 0;
 }
 
