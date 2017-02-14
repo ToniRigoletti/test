@@ -11,7 +11,7 @@ int main()
 	int c;
 	a = 40;
 	b = 20;
-	c = a + b;
+	c = a * b;
 	printf("%d\n", c);
     return 0;
 }
