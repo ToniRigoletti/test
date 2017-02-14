@@ -11,6 +11,7 @@ int main()
 	int c;
 	a = 40;
 	b = 20;
+	c = a + b;
     return 0;
 }
 
